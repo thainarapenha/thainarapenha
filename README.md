@@ -1,4 +1,10 @@
-### Hi there 👋
+# Oi, sou a Thainara, tudo bem? 👋
+
+
+## Meus conhecimentos
+
+
+## Estudando sobre
 
 <!--
 **thainarapenha/thainarapenha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
