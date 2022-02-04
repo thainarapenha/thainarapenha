@@ -14,6 +14,4 @@ Sou aberta a sugestões! Desde já agradeço seu feedback :)
                      
 ## Procurando aprender sobre
 
-##### HTML: <img src="https://img.shields.io/badge/HTML%20-orange.svg?&style=for-the-badge&logo=HTML&logoColor=white"/>
-
-##### CSS: <img src="https://img.shields.io/badge/CSS%20-blue.svg?&style=for-the-badge&logo=CSS&logoColor=white"/>
+##### JavaScript: <img src="https://img.shields.io/badge/JavaScript%20-yellow.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
