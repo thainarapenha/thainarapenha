@@ -1,17 +1,15 @@
-## Oi!, tudo bem? Me chamo Thainara e sou um Desenvolvedora Full Stack em formação :)
+## Oi!, tudo bem? Me chamo Thainara e sou uma Desenvolvedora Full Stack em formação :)
 
-Sou graduanda em Engenharia de Computação pela UFC e faço parte de uma turma B2B na Resilia Educação em parceria com a Stone, onde estudo sobre Desenvolvimento Web Full Stack. Aqui crio projetos, trabalho em equipe e desenvolvo habilidades soft skill.
+Sou graduanda em Engenharia de Computação pela UFC e faço parte de uma turma B2B na Resilia Educação em parceria com a Stone, onde estudo sobre Desenvolvimento Web Full Stack. Aqui crio projetos, trabalho em equipe e desenvolvo habilidades soft skill. Na universidade fui membro de Empresa Júnior e Centro Acadêmico, onde tive experiência com liderança, UI/UX Design, trabalho em squad, marketing e vendas, além de organização de evento tecnológico para o curso e formações internas de time.
 
-Na universidade fui membro de Empresa Júnior e Centro Acadêmico, onde tive experiência com liderança, UI/UX Design, trabalho em squad, marketing e vendas, além de organização de evento tecnológico para o curso e formações internas de time.
-
-Aqui busco compartilhar meu processo de aprendizagem e aprender novos assuntos
+Aqui busco compartilhar meu processo de aprendizagem e aprender novos assuntos.
 
 ##
 
 <div align="center">
   <a href="https://github.com/thainarapenha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thainarapenha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainarapenha&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thainarapenha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainarapenha&layout=compact&langs_count=7&theme=dark"/>
   
   <div><br>
     <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -24,11 +22,10 @@ Aqui busco compartilhar meu processo de aprendizagem e aprender novos assuntos
   </div>
   
   ##
-
-  <div>
-    <a href = "mailto:thainarapenha@alu.ufc.br"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/thainrapenha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
+  
+  [![Linktree Badge](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/thainarapenha)](https://linktr.ee/thainarapenha)
+    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thainarapenha/)](https://www.linkedin.com/in/thainarapenha)
+    [![Behance Badge](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white&link=https://www.behance.net/thainarapenha/)](https://www.behance.net/thainarapenha)
 </div>
 
 
