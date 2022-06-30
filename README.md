@@ -1,17 +1,34 @@
-# Oi, sou a Thainara. Tudo bem?
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/peguimasid)](https://github.com/thainarapenha)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermo-masid-494677b8/)](https://www.linkedin.com/in/thainarapenha/)
+## Oi!, tudo bem? Me chamo Thainara e sou um Desenvolvedora Full Stack em formação :)
 
-Sou estudante de computação apaixonada por tecnologia e desenvolvimento.
-Tenho conhecimento iniciante em JAVA e busco me aprofundar mais nessa linguagem, além de aprender outras na qual tenho interesse. Gosto da área de web e em especial o Front. Estou comprometida a estudar mais sobre essa área e aos poucos ir listando meus projetos aqui.
+Sou graduanda em Engenharia de Computação pela UFC e faço parte de uma turma B2B na Resilia Educação em parceria com a Stone, onde estudo sobre Desenvolvimento Web Full Stack. Aqui crio projetos, trabalho em equipe e desenvolvo habilidades soft skill.
 
-Sou aberta a sugestões! Desde já agradeço seu feedback :)
+Na universidade fui membro de Empresa Júnior e Centro Acadêmico, onde tive experiência com liderança, UI/UX Design, trabalho em squad, marketing e vendas, além de organização de evento tecnológico para o curso e formações internas de time.
 
-## Meus conhecimentos
-##### Linguagens: <img src="https://img.shields.io/badge/JAVA%20-F05032.svg?&style=for-the-badge&logo=JAVA&logoColor=white"/>
-##### Version Control: <img src="https://img.shields.io/badge/git%20-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> 
-##### Metodologias ágeis: <img src="https://img.shields.io/badge/Scrum%20-blue.svg?&style=for-the-badge&logo=Scrum&logoColor=white"/> <img src="https://img.shields.io/badge/Kanban%20-yellow.svg?&style=for-the-badge&logo=Kanban&logoColor=white"/>
-                     
-## Procurando aprender sobre
+Aqui busco compartilhar meu processo de aprendizagem e aprender novos assuntos
 
-##### JavaScript: <img src="https://img.shields.io/badge/JavaScript%20-yellow.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
+##
+
+<div align="center">
+  <a href="https://github.com/thainarapenha">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thainarapenha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainarapenha&layout=compact&langs_count=7&theme=dracula"/>
+  
+  <div><br>
+    <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img align="center" alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">      
+  </div>
+  
+  ##
+
+  <div>
+    <a href = "mailto:thainarapenha@alu.ufc.br"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/thainrapenha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
+</div>
+
+
