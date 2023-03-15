@@ -1,6 +1,6 @@
 ## Oi!, tudo bem? Me chamo Thainara e sou uma Desenvolvedora Front-End em formação :)
 
-Sou graduanda em Engenharia de Computação pela UFC e faço parte de uma turma B2B na Resilia Educação em parceria com a Stone, onde estudo sobre Desenvolvimento Web Full Stack. Aqui crio projetos, trabalho em equipe e desenvolvo habilidades soft skill. Na universidade fui membro de Empresa Júnior e Centro Acadêmico, onde tive experiência com liderança, UI/UX Design, trabalho em squad, marketing e vendas, além de organização de evento tecnológico para o curso e formações internas de time.
+Sou graduanda em Engenharia de Computação pela UFC e fiz parte de uma turma B2B na Resilia Educação em parceria com a Stone, onde estudei sobre Desenvolvimento Web Full Stack. Crei projetos, trabalhei em equipe e desenvolvi habilidades soft skill. Na universidade fui membro de Empresa Júnior e Centro Acadêmico, onde tive experiência com liderança, UI/UX Design, trabalho em squad, marketing e vendas, além de organização de evento tecnológico para o curso e formações internas de time.
 
 Aqui busco compartilhar meu processo de aprendizagem e aprender novos assuntos.
 
