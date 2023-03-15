@@ -1,4 +1,4 @@
-## Oi!, tudo bem? Me chamo Thainara e sou uma Desenvolvedora Full Stack em formação :)
+## Oi!, tudo bem? Me chamo Thainara e sou uma Desenvolvedora Front-End em formação :)
 
 Sou graduanda em Engenharia de Computação pela UFC e faço parte de uma turma B2B na Resilia Educação em parceria com a Stone, onde estudo sobre Desenvolvimento Web Full Stack. Aqui crio projetos, trabalho em equipe e desenvolvo habilidades soft skill. Na universidade fui membro de Empresa Júnior e Centro Acadêmico, onde tive experiência com liderança, UI/UX Design, trabalho em squad, marketing e vendas, além de organização de evento tecnológico para o curso e formações internas de time.
 
