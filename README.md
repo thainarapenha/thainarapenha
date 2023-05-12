@@ -1,7 +1,7 @@
 ## Oi!, tudo bem?
 ## Me chamo Thainara e sou uma Desenvolvedora Front-End em formação :)
 
-Sou graduanda em Engenharia de Computação pela UFC e fiz parte de uma turma B2B na Resilia Educação em parceria com a Stone, onde estudei sobre Desenvolvimento Web Full Stack. Crei projetos, trabalhei em equipe e desenvolvi habilidades soft skill. Na universidade fui membro de Empresa Júnior e Centro Acadêmico, onde tive experiência com liderança, UI/UX Design, trabalho em squad, marketing e vendas, além de organização de evento tecnológico para o curso e formações internas de time.
+Sou graduanda em Engenharia de Computação pela UFC, fiz parte de uma turma B2B na Resilia Educação em parceria com a Stone e atualmente estagiária na Grendene S/A. Tenho experiência em criaçaõ de projetos, trabalho em equipe, além de habilidades soft skill. Na universidade fui membro de Empresa Júnior e Centro Acadêmico, onde tive experiência com liderança, UI/UX Design, trabalho em squad, marketing e vendas, além de organização de evento tecnológico para o curso e formações internas de time.
 
 Aqui busco compartilhar meu processo de aprendizagem e aprender novos assuntos.
 
@@ -12,25 +12,21 @@ Aqui busco compartilhar meu processo de aprendizagem e aprender novos assuntos.
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thainarapenha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainarapenha&layout=compact&langs_count=7&theme=dark"/>
   
-  <h2>Tecnologias que conheço</h2>
+  <h2>Tecnologias que estudo</h2>
   <div>
+    <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">    
     <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
     <img align="center" alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-    
-          
   </div><br>
-
-  Tecnologias que estou aprendendo
-  <div>
-    <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">     
-  </div>
   
   ##
   
