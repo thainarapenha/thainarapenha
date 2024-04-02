@@ -1,11 +1,11 @@
 ## Oi!, tudo bem?
-## Me chamo Thainara e sou uma Desenvolvedora Front-End em formação :)
+## Me chamo Thainara e sou desenvolvedora com foco na experiência do usuário :)
 
-Sou desenvolvedora Front-End com foco na experiência do usuário. Tenho experiência com UI e UX Design, TypeScript, React Native, ReactJS, Styled-Components, Context, Scrum, trabalho em squads, gestão e liderança, além do próprio front-end. Fiz parte de uma turma B2B da Resilia Educação em parceria com a Stone, que patrocinou minha formação no curso de desenvolvimento web full stack. 
+Tenho conhecimentos em ferramentas e tecnologias como TypeScript, React Native, ReactJS, metodologias ágeis e muito mais. Fiz parte de uma turma B2B patrocinada pela Stone na minha formação em Desenvolvimento Web Full Stack. Na Grendene S/A atuei diretamente em dois projeto de desenvolvimento mobile, obtendo resultados significativos para a empresa. 
 
-Atualmente sou graduanda em Engenharia de Computação - UFC e estagiária de TI na Grendene S/A. Já participei de forma voluntária em alguns grupos como Centro Acadêmico, Empresa Jr e na organização de um evento para os estudantes do curso.
+Tenho grande enteresse na área de qualidade de software e venho buscando aprender mais sobre esse assunto. Além do ambiente acadêmico e corporativo, também valorizo o envolvimento com a comunidade. Já contribuí voluntariamente em diversos grupos, incluindo o Centro Acadêmico e uma Empresa Jr, além de ter colaborado na organização de eventos para estudantes de computação. Atualmente, estou cursando Engenharia de Computação na UFC e também sou estagiária na Pagbank.
 
-Aqui busco compartilhar meu progresso com projetos.
+Aqui busco compartilhar meu processo de aprendizagem e busco aprender novos assuntos.
 
 <div align="center">  
   <h2>Tecnologias que estudo</h2>
