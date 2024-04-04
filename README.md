@@ -1,9 +1,11 @@
 ## Oi!, tudo bem?
 ## Me chamo Thainara e sou desenvolvedora com foco na experiência do usuário :)
 
-Tenho conhecimentos em ferramentas e tecnologias como TypeScript, React Native, ReactJS, metodologias ágeis e muito mais. Fiz parte de uma turma B2B patrocinada pela Stone na minha formação em Desenvolvimento Web Full Stack. Na Grendene S/A atuei diretamente em dois projeto de desenvolvimento mobile, obtendo resultados significativos para a empresa. 
+Oi, tudo bem? :) Me chamo Thainara, 
 
-Tenho grande enteresse na área de qualidade de software e venho buscando aprender mais sobre esse assunto. Além do ambiente acadêmico e corporativo, também valorizo o envolvimento com a comunidade. Já contribuí voluntariamente em diversos grupos, incluindo o Centro Acadêmico e uma Empresa Jr, além de ter colaborado na organização de eventos para estudantes de computação. Atualmente, estou cursando Engenharia de Computação na UFC e também sou estagiária na Pagbank.
+Sou uma desenvolvedora com foco na experiência do usuário. Tenho conhecimentos em ferramentas e tecnologias como TypeScript, React Native, ReactJS, metodologias ágeis e muito mais. Fiz parte de uma turma B2B patrocinada pela Stone na minha formação em Desenvolvimento Web Full Stack. Na Grendene S/A atuei diretamente em dois projetos de desenvolvimento mobile, obtendo resultados significativos para a empresa.
+
+Tenho grande interesse na área de qualidade de software e venho buscando aprender mais sobre esse assunto. Além do ambiente acadêmico e corporativo, também valorizo o envolvimento com a comunidade. Já contribuí voluntariamente em diversos grupos, incluindo o Centro Acadêmico e uma Empresa Jr, além de ter colaborado na organização de eventos para estudantes de computação. Atualmente, estou cursando Engenharia de Computação na UFC e também sou estagiária na Pagbank.
 
 Aqui busco compartilhar meu processo de aprendizagem e busco aprender novos assuntos.
 
