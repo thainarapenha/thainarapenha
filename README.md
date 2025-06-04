@@ -3,9 +3,9 @@
 
 Oi, tudo bem? :) Me chamo Thainara, 
 
-Sou uma desenvolvedora com foco na experiência do usuário. Tenho conhecimentos em ferramentas e tecnologias como TypeScript, React Native, ReactJS, metodologias ágeis e muito mais. Fiz parte de uma turma B2B patrocinada pela Stone na minha formação em Desenvolvimento Web Full Stack. Na Grendene S/A atuei diretamente em dois projetos de desenvolvimento mobile, obtendo resultados significativos para a empresa.
+Sou uma Desenvolvedora Front-End Web e Mobile com sólida experiência em criação de aplicações com React e React Native, TypeScript e SQL, atuando também em projetos focados na experiência do usuário, interfaces responsivas e otimização de processos. Atuei em projetos com impacto real, promovendo redução de custos e aumento de eficiência, especialmente em ambientes fabris. Possuo uma variedade de certificações de conteúdos complementares para melhorar minha capacidade de desenvolvimento.
 
-Tenho grande interesse na área de qualidade de software e venho buscando aprender mais sobre esse assunto. Além do ambiente acadêmico e corporativo, também valorizo o envolvimento com a comunidade. Já contribuí voluntariamente em diversos grupos, incluindo o Centro Acadêmico e uma Empresa Jr, além de ter colaborado na organização de eventos para estudantes de computação. Atualmente, estou cursando Engenharia de Computação na UFC e também sou estagiária na Pagbank.
+Estou sempre em busca de evolução, atualmente me aprofundando em C#, para ampliar minha atuação também no back-end. Acredito que posso ajudar a empresa oferecendo soluções técnicas de qualidade, com foco em eficiência, usabilidade e agilidade, além de trazer uma postura colaborativa, orientada à resolução de problemas e melhoria contínua.
 
 Aqui busco compartilhar meu processo de aprendizagem e busco aprender novos assuntos.
 
@@ -30,7 +30,5 @@ Aqui busco compartilhar meu processo de aprendizagem e busco aprender novos assu
   ##
   
    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thainarapenha/)](https://www.linkedin.com/in/thainarapenha)
-    [![Behance Badge](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white&link=https://www.behance.net/thainarapenha/)](https://www.behance.net/thainarapenha)
-</div>
 
 
