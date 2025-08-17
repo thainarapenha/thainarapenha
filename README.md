@@ -1,34 +1,36 @@
-## Oi!, tudo bem?
-## Me chamo Thainara e sou desenvolvedora com foco na experiência do usuário :)
+<div align="center">
+<h2 align="center">Opa! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Tudo certo?</h2>
 
-Oi, tudo bem? :) Me chamo Thainara, 
+<p>Me chamo Thainara... Muito bom ter você por aqui. Fique à vontade pra ver o que ando desenvolvendo, dar sugestões ou compartilhar uma ideia que vai nos deixar milionários skjdksj</p>
 
-Sou uma Desenvolvedora Front-End Web e Mobile com sólida experiência em criação de aplicações com React e React Native, TypeScript e SQL, atuando também em projetos focados na experiência do usuário, interfaces responsivas e otimização de processos. Atuei em projetos com impacto real, promovendo redução de custos e aumento de eficiência, especialmente em ambientes fabris. Possuo uma variedade de certificações de conteúdos complementares para melhorar minha capacidade de desenvolvimento.
+<pre><i>Focus on [Software developer] - [User experience]</i></pre>
 
-Estou sempre em busca de evolução, atualmente me aprofundando em C#, para ampliar minha atuação também no back-end. Acredito que posso ajudar a empresa oferecendo soluções técnicas de qualidade, com foco em eficiência, usabilidade e agilidade, além de trazer uma postura colaborativa, orientada à resolução de problemas e melhoria contínua.
+<h2></h2>
 
-Aqui busco compartilhar meu processo de aprendizagem e busco aprender novos assuntos.
+<br>
 
-<div align="center">  
-  <h2>Tecnologias que estudo</h2>
-  <div>
-    <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img align="center" alt="MaterialUI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-    <img align="center" alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-    <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-    <img align="center" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>          
-    <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>    
-    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-    <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-    <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-    <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  </div><br>
-  
-  ##
-  
-   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thainarapenha/)](https://www.linkedin.com/in/thainarapenha)
+<p># Aqui você irá ver... </p>
 
+<p>Um pouco do que ando estudando - Ver minha evolução como Dev - Eu tentando manter a constância de commits</p>
 
+<br>
+
+<h2></h2>
+
+<p># Sobre mim</p>
+
+<div align=left>
+  <p>[1] Trabalho como: Dev Front-End Mobile com foco na experiência de usuário</p>
+  <p>[2] No dia-a-dia uso: React Native e TypeScipt</p>
+  <p>[3] Estudando: Back-End com C#</p>
+  <p>[4] No tempo livre: Jogando video game, lendo ou viajando</p>
+</div>
+
+<h2></h2>
+
+<p>Caso queira saber mais sobre mim ou entrar em contato</p>
+<a href="https://www.linkedin.com/in/thainarapenha/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a> 
+
+</div>
