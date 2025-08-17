@@ -3,7 +3,7 @@
 
 <p>Me chamo Thainara... Muito bom ter você por aqui. Fique à vontade pra ver o que ando desenvolvendo, dar sugestões ou compartilhar uma ideia que vai nos deixar milionários skjdksj</p>
 
-<pre><i>Focus on [Software developer] - [User experience]</i></pre>
+<pre><i>Focus on [Software Development] - [User Experience]</i></pre>
 
 <h2></h2>
 
